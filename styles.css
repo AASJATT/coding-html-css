@@ -17,7 +17,7 @@ body{
 
 /**container**/
 .container{
-    padding:0rem 1rem;
+    padding:2rem 1rem;
 }
 .container-center{
     max-width:600px;
@@ -101,7 +101,7 @@ body{
 
 .footer{
     background-color: var(--primary-color);
-    padding:3rem 1rem;
+    padding:1.8rem 1rem;
     border-top-right-radius: 1rem;
     text-align: center;
 
