@@ -13,6 +13,7 @@ hr{
 body{
     font-family: 'Montserrat', sans-serif;
     margin:0px;
+    width:100%;
 }
 
 /**container**/
@@ -65,9 +66,15 @@ body{
 
 .navigation .link{
     display: inline;
-    color:white
+    color:white;
+    
+    
 }
-.nav-pills{text-align:right;}
+.nav-pills{
+    display: block;
+    text-align:right;
+
+}
 
 .link-active{
     font-weight: bold;
